@@ -1,9 +1,5 @@
 
-  Create the app:
 
-```bash
-$ express /tmp/foo && cd /tmp/foo
-```
 
   Install dependencies:
 
